@@ -1,0 +1,30 @@
+_repo: History-of-the-Catholic-Church-in-Paterson-N.J.Anniversary-of-the-Establishment-of-St.-John-s__41805
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shriner, Charles A. (Charles Anthony)
+    alias: Shriner, Charles Anthony
+    birthdate: 1853
+    deathdate: 1945
+    gutenberg_agent_id: '41377'
+    url: http://www.gutenberg.org/2009/agents/41377
+description: ''
+gutenberg_issued: '2013-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41805'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'St. John''s Church (Paterson, N.J.)'
+- !lcsh 'Catholic Church -- New Jersey -- Paterson'
+- !lcsh 'Paterson (N.J.) -- Church history'
+title: "History of the Catholic Church in Paterson, N.J.\r\nwith an Account of the\
+  \ Celebration of the Fiftieth Anniversary of the Establishment of St. John's Church"
+url: http://www.gutenberg.org/ebooks/41805
