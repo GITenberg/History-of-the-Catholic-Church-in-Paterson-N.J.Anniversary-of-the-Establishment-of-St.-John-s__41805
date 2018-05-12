@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '41377'
     url: http://www.gutenberg.org/2009/agents/41377
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41805#History-of-the-Catholic-Church-in-Paterson-N.J.Anniversary-of-the-Establishment-of-St.-John-s_
 gutenberg_issued: '2013-01-09'
 gutenberg_type: Text
 identifiers:
